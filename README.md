@@ -7,10 +7,10 @@ Nos reunimos el segundo martes de cada mes para hablar de todo lo que conforma l
 Las pláticas deberían de ser acerca de todo lo relacionado con Apple, Swift, Arquitecutura, buenas prácticas, patrones de diseño, testing, automatización, ingeniería de software, experiencias del mundo real y nuevas cosas que Apple presenta cada año. Cualquier historia interesante o tema es bienvenido. Nuestro proceso de selección de pláticas es muy sencillo, y consta de tres pasos:
 
 1) Abre un issue con el título de lo que vas a hablar y asignalo a tí.
-2) Describe de que se trata tu charla técnica en los comentarios del issue
+2) Describe de que se trata tu charla técnica en los comentarios del issue.
 3) Asigna una etiqueta (Charla 40 minutos, Taller 3 horas).
 
-**Nota:** Los talleres se ofrecerán separados de los eventos de Meetup
+**Nota:** Los talleres se ofrecerán separados de los eventos de Meetup.
 
 ### Votaciones para propuestas
 Si estás interesado que se de una charla técnica de las propuestas en los issues, vota usando la funcionalidad "Pick your reaction" en los comentarios del issue y selecciona un +1.
