@@ -16,4 +16,4 @@ Tenemos algo de información para quienes van a presentar por [primera vez](#), 
 
 ### Código de Conducta
 
-Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](#).
+Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/iosdevelopersmx/codigodeconducta).
