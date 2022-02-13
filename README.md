@@ -1,6 +1,6 @@
 # iOS Developers Mexico
 
-We meet the last Saturda of every month to talk about everything that its involved in Apple technologies.
+We meet the last Saturday of every month to talk about everything that its involved in Apple technologies.
 
 ### I want to give a talk 📖
 
