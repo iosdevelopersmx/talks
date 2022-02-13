@@ -1,21 +1,21 @@
-# iOSDevelopersMX
+# iOS Developers Mexico
 
-Nos reunimos el segundo martes de cada mes para hablar de todo lo que conforma las tecnologías Apple.
+We meet the last Saturda of every month to talk about everything that its involved in Apple technologies.
 
-### Quiero presentar o adoptar una plática 📖
+### I want to give a talk 📖
 
-Las pláticas deberían de ser acerca de todo lo relacionado con Apple, Swift, Arquitecutura, buenas prácticas, patrones de diseño, testing, automatización, ingeniería de software, experiencias del mundo real y nuevas cosas que Apple presenta cada año. Cualquier historia interesante o tema es bienvenido. Nuestro proceso de selección de pláticas es muy sencillo, y consta de tres pasos:
+The talks should be about everything related to Apple, Swift, Architecture, best practices, design patterns, testing, automation, software engineering, real world experiences and new things that Apple introduces every year. Any interesting story or topic is welcome. Our talk selection process is very simple, and consists of three steps:
 
-1) Abre un issue con el título de lo que vas a hablar y asignalo a tí.
-2) Describe de que se trata tu charla técnica en los comentarios del issue.
-3) Asigna una etiqueta (Charla 40 minutos, Taller 3 horas).
+1) Open an issue with the title of what you are going to talk about and assign it to yourself.
+2) Describe what your technical talk is about in the comments of the issue.
+3) Assign a label (Talk 40 minutes, Workshop 3 hours).
 
-**Nota:** Los talleres se ofrecerán separados de los eventos de Meetup.
+**Note:** Workshops will be offered separately from Meetup events.
 
-### Votaciones para propuestas
-Si estás interesado que se de una charla técnica de las propuestas en los issues, vota usando la funcionalidad "Pick your reaction" en los comentarios del issue y selecciona un +1.
+### Voting for proposals
+If you are interested in a technical talk of the proposals in the issues, vote using the "Pick your reaction" functionality in the comments of the issue and select a +1.
 
 
-### Código de Conducta
+### Code of Conduct
 
-Tanto los eventos como la comunicación entre los miembros de la comunidad deben apegarse a lo establecido por el [código de conducta](https://github.com/iosdevelopersmx/codigodeconducta).
+Both events and communication between community members must adhere to the provisions of the [code of conduct](https://github.com/iosdevelopersmx/code-of-conduct). 
